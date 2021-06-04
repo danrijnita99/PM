@@ -1,7 +1,4 @@
 
-
-/* www.learningbuz.com */
-/*Impport following Libraries*/
 #include <Wire.h> 
 #include <Servo.h> 
  
